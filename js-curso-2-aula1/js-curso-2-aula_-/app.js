@@ -1,7 +1,7 @@
 // utilizando funções 
 
 let listaDeNumerosSorteados = [];
-let numeroLimite = 150; 
+let numeroLimite = 125; 
 let numeroSecreto = gerarNumero();
 let tentativas = 1;
 
